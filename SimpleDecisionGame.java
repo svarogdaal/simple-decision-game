@@ -1,3 +1,13 @@
+/*
+ Author: Silviu Velica
+ Date: September 2016
+ Description:
+     This is a simple text-based decision game. The user passes through a number of
+     "rooms", each consisting of at least one method. The Monty Hall scenario and
+     the Muddy Children problem are part of one of the rooms (see monty_hall and
+     muddy_children).
+*/
+
 import java.util.Scanner;
 
 
